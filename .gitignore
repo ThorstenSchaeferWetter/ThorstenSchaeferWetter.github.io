@@ -1,3 +1,4 @@
 push.sh
 _site
-jekyll-cache
+.jekyll-cache
+
